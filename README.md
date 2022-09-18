@@ -6,3 +6,4 @@
 ## About this project
 This web application was designed using simple HTML, CSS & JavaScript. To access weather data based 
 on city, OpenWeatherMap API was used. This application has a cool feature i.e the background image changes according to the given city name at the search bar for fetching weather details.
+## Please visit this website https://weather-db.netlify.app/
